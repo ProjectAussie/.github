@@ -1,0 +1,5 @@
+# Local env files. Commit only templates, whose names end in .sample or .example.
+.env
+.env.*
+!.env*.sample
+!.env*.example
